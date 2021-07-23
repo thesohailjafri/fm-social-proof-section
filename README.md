@@ -37,9 +37,6 @@ Users should be able to:
 ### Links
 
 - Live Site URL: [Netlify](https://fm-socialproofsection-dopedev.netlify.app/)
-
-
-
 - Solution URL: [Github](https://github.com/thesohailjafri/fm-social-proof-section)
 
 ## My process
