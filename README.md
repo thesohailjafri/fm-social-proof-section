@@ -30,8 +30,8 @@ Users should be able to:
 
 <br/>
 
-![Mobile Screenshot1](./screenshots/mobile1.png)
-![Mobile Screenshot2](./screenshots/mobile2.png)
+![Mobile Screenshot](./screenshots/mobile.png)
+
 
 
 ### Links
