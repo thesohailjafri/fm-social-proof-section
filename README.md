@@ -27,12 +27,14 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop Screenshot](./screenshots/desktop.png)
-![Mobile Screenshot](./screenshots/mobile.png)
+![Mobile Screenshot1](./screenshots/mobile1.png)
+![Mobile Screenshot2](./screenshots/mobile2.png)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://app.netlify.com/sites/fm-socialproofsection-dopedev/overview)
-- Live Site URL: [Add live site URL here](https://github.com/thesohailjafri/fm-social-proof-section)
+- Live Site URL: [Netlify](https://app.netlify.com/sites/fm-socialproofsection-dopedev/overview)
+- Solution URL: [Github](https://github.com/thesohailjafri/fm-social-proof-section)
 
 ## My process
 
@@ -70,7 +72,7 @@ column-gap:20px
 
 ## Author
 
-- Website - [Add your name here](https://www.thesohailjafri.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/thesohailjafri)
-- Twitter - [@yourusername](https://www.twitter.com/thesohailjafri)
+- Website - [www.thesohailjafri.com](https://www.thesohailjafri.com)
+- Frontend Mentor - [@thesohailjafri](https://www.frontendmentor.io/profile/thesohailjafri)
+- Twitter - [@thesohailjafri](https://www.twitter.com/thesohailjafri)
 
